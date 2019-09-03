@@ -3,6 +3,8 @@
 
 ## Index
 - [Git Guide](https://github.com/SWE3003-41/ClassMaterial#git-guide)
+- Install SQLite: [README](https://github.com/SWE3003-41/SQLite/blob/master/sqlite-source/README.md) / [pdf](https://github.com/SWE3003-41/ClassMaterial/blob/master/SQLite_installation.pdf)  
+
 ---
 
 
