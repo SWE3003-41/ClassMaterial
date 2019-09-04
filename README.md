@@ -2,6 +2,7 @@
 
 
 ## Index
+- [Install Ubuntu](https://github.com/SWE3003-41/ClassMaterial/blob/master/Ubuntu%20%EC%84%A4%EC%B9%98%EA%B0%80%EC%9D%B4%EB%93%9C.pdf)
 - [Git Guide](https://github.com/SWE3003-41/ClassMaterial#git-guide)
 - Install SQLite: [README](https://github.com/SWE3003-41/SQLite/blob/master/sqlite-source/README.md) / [pdf](https://github.com/SWE3003-41/ClassMaterial/blob/master/SQLite_installation.pdf)  
 - Install and run YCSB-TS: [README](https://github.com/SWE3003-41/YCSB-TS/tree/master/jdbc/README.md) 
